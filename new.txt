@@ -1,0 +1,4 @@
+  Name:Ilmir
+  Age:34
+  Pet:No
+  Salary:$3500
